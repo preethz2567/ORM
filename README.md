@@ -46,7 +46,7 @@ admin.site.register(Bank,BankAdmin)
 
 
 ## OUTPUT
-Screenshot 2024-10-22 143645.png
+ ![alt text](<django output.jpg>)
 
 
 ## RESULT
