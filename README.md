@@ -46,7 +46,8 @@ admin.site.register(Bank,BankAdmin)
 
 
 ## OUTPUT
-![alt text](<django output.jpg>)
+
+https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/admin/ORM/Screenshot%202024-10-22%20143645.png?version%3D1729599403118
 
 
 ## RESULT
