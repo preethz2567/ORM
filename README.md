@@ -46,7 +46,7 @@ admin.site.register(Bank,BankAdmin)
 
 
 ## OUTPUT
-django out.jpg
+![alt text](image.png)
 
 
 ## RESULT
